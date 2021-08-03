@@ -10,3 +10,5 @@ https://b-hls-09.strpst.com/hls/43422347/43422347.m3u8
 https://b-hls-16.strpst.com/hls/53629843/53629843.m3u8
 #EXTINF:0 type="stream" channelId="889" group="Ao Vivo" aspect-ratio="Original", Danny Vega
 https://b-hls-18.strpst.com/hls/54372014/54372014.m3u8
+#EXTINF:0 type="stream" channelId="889" group="Ao Vivo" aspect-ratio="Original", Fantasy Boys 2
+https://b-hls-02.strpst.com/hls/57744532/57744532.m3u8
