@@ -103,3 +103,5 @@ https://b-hls-09.strpst.com/hls/47443251/47443251.m3u8
 https://b-hls-21.strpst.com/hls/57804191/57804191.m3u8
 #EXTINF:0 type="stream" channelId="889" group="Ao Vivo" aspect-ratio="Original", Sweet Party 2000
 https://b-hls-09.strpst.com/hls/43422347/43422347.m3u8
+#EXTINF:0 type="stream" channelId="889" group="Ao Vivo" aspect-ratio="Original", Bill Saenz
+https://b-hls-16.strpst.com/hls/53629843/53629843.m3u8
