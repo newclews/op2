@@ -15,3 +15,5 @@ https://b-hls-18.strpst.com/hls/54372014/54372014.m3u8
 https://b-hls-02.strpst.com/hls/57744532/57744532.m3u8
 #EXTINF:0 type="stream" channelId="889" group="Ao Vivo" aspect-ratio="Original", Dalmation
 https://b-hls-20.strpst.com/hls/56345029/56345029.m3u8
+#EXTINF:0 type="stream" channelId="889" group="Ao Vivo" aspect-ratio="Original", Sunrise Z
+https://b-hls-06.strpst.com/hls/58251911/58251911.m3u8
