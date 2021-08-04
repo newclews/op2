@@ -23,3 +23,5 @@ https://b-hls-06.strpst.com/hls/58251911/58251911.m3u8
 https://b-hls-25.strpst.com/hls/43533969/43533969.m3u8
 #EXTINF:0 type="stream" channelId="889" group="Ao Vivo" aspect-ratio="Original", FergasHot
 https://b-hls-07.strpst.com/hls/56177670/56177670.m3u8
+#EXTINF:0 type="stream" channelId="889" group="Ao Vivo" aspect-ratio="Original", Black and Whit99
+https://b-hls-24.strpst.com/hls/58776011/58776011.m3u8
