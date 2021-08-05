@@ -33,3 +33,5 @@ https://b-hls-18.strpst.com/hls/56050750/56050750.m3u8
 https://b-hls-20.strpst.com/hls/52536611/52536611.m3u8
 #EXTINF:0 type="stream" channelId="889" group="Ao Vivo" aspect-ratio="Original", Julian Rose2
 https://b-hls-10.strpst.com/hls/54798796/54798796.m3u8
+#EXTINF:0 type="stream" channelId="889" group="Ao Vivo" aspect-ratio="Original", Nasty Gang
+https://b-hls-02.strpst.com/hls/57810870/57810870.m3u8
