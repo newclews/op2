@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="889" group="Adulto" aspect-ratio="Original", GAY TV LIVE
 http://live.redtraffic.xyz/gay.m3u8
+#EXTINF:0 type="stream" channelId="889" group="Adulto" aspect-ratio="Original", PRIVATE
+http://stream2.torba.fun/wjXEeAO5mY/mpegts?token=q9MZEfs8U6NegL81
