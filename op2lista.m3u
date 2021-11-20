@@ -47,3 +47,5 @@ https://b-hls-19.strpst.com/hls/28287572/28287572_480p.m3u8
 https://b-hls-04.strpst.com/hls/61863818/61863818.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", COUPLEBABYBOYSLOVE
 https://b-hls-04.strpst.com/hls/65843870/65843870.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", NO LIMITS
+https://b-hls-20.strpst.com/hls/56367362/56367362.m3u8
