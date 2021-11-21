@@ -159,7 +159,7 @@ https://b-hls-21.strpst.com/hls/57804191/57804191.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BOYBIG
 https://b-hls-21.strpst.com/hls/63152082/63152082.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", NOAH ANGEL
-https://public-video.stripcdn.com/61727233/9be87be2bad9094ed15f6910b2c45b8d/720p/intro.mp4
+https://b-hls-16.strpst.com/hls/61727233/61727233_480p.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FIURE
 https://b-hls-07.strpst.com/hls/57873923/57873923.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CONFUSED
