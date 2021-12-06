@@ -83,3 +83,5 @@ https://b-hls-02.strpst.com/hls/49661047/49661047.m3u8
 https://b-hls-07.strpst.com/hls/19653822/19653822.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BEST SEDUCTION
 https://b-hls-19.strpst.com/hls/65790282/65790282.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SWEET BOYSX
+https://b-hls-17.strpst.com/hls/66837836/66837836.m3u8
