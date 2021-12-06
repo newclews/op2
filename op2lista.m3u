@@ -87,3 +87,5 @@ https://b-hls-19.strpst.com/hls/65790282/65790282.m3u8
 https://b-hls-17.strpst.com/hls/66837836/66837836.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TONNY MEYER
 https://b-hls-23.strpst.com/hls/64004241/64004241.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", PARTY DUOS HOT
+https://b-hls-06.strpst.com/hls/55520004/55520004.m3u8
