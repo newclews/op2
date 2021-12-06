@@ -81,3 +81,5 @@ https://b-hls-19.strpst.com/hls/62784960/62784960.m3u8
 https://b-hls-02.strpst.com/hls/49661047/49661047.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BEAUTY CRISTAL
 https://b-hls-07.strpst.com/hls/19653822/19653822.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BEST SEDUCTION
+https://b-hls-19.strpst.com/hls/65790282/65790282.m3u8
