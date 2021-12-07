@@ -91,3 +91,7 @@ https://b-hls-23.strpst.com/hls/64004241/64004241.m3u8
 https://b-hls-06.strpst.com/hls/55520004/55520004.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HARRY
 https://b-hls-08.strpst.com/hls/66623696/66623696.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BOYS HOT
+https://b-hls-01.strpst.com/hls/64799938/64799938.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SEBA TOTTO
+https://b-hls-08.strpst.com/hls/52554024/52554024.m3u8
