@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", GAY TV LIVE
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TV LIVE 1
 http://live.redtraffic.xyz/gay.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TV LIVE 2
+http://natv.pw:80/Vandojose1/12110000733/53028
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TWINKS
 http://natv.pw:80/Vandojose1/12110000733/53028
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA
