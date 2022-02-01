@@ -23,3 +23,5 @@ https://b-hls-24.strpst.com/hls/66912364/66912364.m3u8
 https://b-hls-08.strpst.com/hls/49107721/49107721.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TEMP
 https://thegay.ahcdn.com/key=hnjSzOkvhSX-O6zEmlm4Zw,end=1643733481,limit=3/referer=none,.thegay.com,.gstatic.com/speed=0/min_speed=97710/media=hls/c1/videos/125000/125908/125908.mp4
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TEMP 2
+https://thegay.ahcdn.com/key=lyCZaYSi0PjWcmSoUx3tQg,end=1643734067,limit=3/data=h0oxIJ/speed=2.0/buffer=1457K/referer=none,.thegay.com,.gstatic.com/c2/videos/1110000/1110733/1110733.mp4
