@@ -23,5 +23,5 @@ https://b-hls-24.strpst.com/hls/66912364/66912364.m3u8
 https://b-hls-08.strpst.com/hls/49107721/49107721.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ETHEREAL
 https://b-hls-24.strpst.com/hls/56050750/56050750.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TEMP 2
-https://thegay.ahcdn.com/key=lyCZaYSi0PjWcmSoUx3tQg,end=1643734067,limit=3/data=h0oxIJ/speed=2.0/buffer=1457K/referer=none,.thegay.com,.gstatic.com/c2/videos/1110000/1110733/1110733.mp4
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", KRIIS
+https://b-hls-16.strpst.com/hls/70309075/70309075.m3u8
