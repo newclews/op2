@@ -25,3 +25,5 @@ https://b-hls-08.strpst.com/hls/49107721/49107721.m3u8
 https://b-hls-24.strpst.com/hls/56050750/56050750.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", KRIIS
 https://b-hls-16.strpst.com/hls/70309075/70309075.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", OSTIN ELLIOT
+https://b-hls-04.strpst.com/hls/69437521/69437521.m3u8
