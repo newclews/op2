@@ -26,4 +26,8 @@ https://b-hls-16.strpst.com/hls/70309075/70309075.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", OSTIN ELLIOT
 https://b-hls-04.strpst.com/hls/69437521/69437521.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TEMP
-https://edge347.stream.highwebmedia.com/live-edge/amlst:samy_unlimited-sd-25d7c1c9076da684a25bde04531a4f1cefb565fbdcd7b7d40f8ff0bacfdb32a0_trns_h264/chunklist_w2138042932_b2796000_t64RlBTOjI5Ljk3.m3u8
+https://thegay.ahcdn.com/key=ALVsc1vOsRc9mtfpD9QBSA,end=1644069903,limit=3/referer=none,.thegay.com,.gstatic.com/speed=0/min_speed=72896/media=hls/c1/videos/126000/126720/126720.mp4
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TEMP 2
+https://thegay.ahcdn.com/key=txWZS3SlKoDpg6C4p1f1NA,end=1644070114,limit=3/referer=none,.thegay.com,.gstatic.com/speed=0/min_speed=95968/media=hls/c1/videos/126000/126171/126171.mp4
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TEMP 3
+https://thegay.ahcdn.com/key=5NcXmzEvcoT67324IIb5QQ,end=1644070354,limit=3/referer=none,.thegay.com,.gstatic.com/speed=0/min_speed=62403/media=hls/c1/videos/124000/124328/124328.mp4
