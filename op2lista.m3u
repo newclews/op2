@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", XMO
+http://ydb6c.top:8000/i9mHJDNOOq/ChAIBnvEWL/222
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FRANK
 https://b-hls-09.strpst.com/hls/63105323/63105323.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ROOMATES BOYS
