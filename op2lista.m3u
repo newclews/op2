@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", PARTY HOT
-https://b-hls-23.strpst.com/hls/47463013/47463013.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CAMILA
+https://b-hls-20.strpst.com/hls/50374792/50374792.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FRANK
 https://b-hls-09.strpst.com/hls/63105323/63105323.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ROOMATES BOYS
@@ -33,8 +33,8 @@ https://b-hls-05.strpst.com/hls/72539573/72539573.m3u8
 https://b-hls-10.strpst.com/hls/71849426/71849426.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HYDER BLAKE
 https://b-hls-06.strpst.com/hls/72160306/72160306.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", YEFER
-https://b-hls-07.strpst.com/hls/46537721/46537721.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", WHITES
+https://b-hls-02.strpst.com/hls/72187890/72187890.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FOUR GUYS
 https://b-hls-16.strpst.com/hls/72552858/72552858_480p.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BEST
