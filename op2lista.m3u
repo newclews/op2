@@ -39,5 +39,6 @@ https://b-hls-02.strpst.com/hls/72187890/72187890.m3u8
 https://b-hls-16.strpst.com/hls/72552858/72552858_480p.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BEST
 https://b-hls-17.strpst.com/hls/65790282/65790282.m3u8
-
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TIFFANY
+https://b-hls-03.strpst.com/hls/72558085/72558085.m3u8
 
