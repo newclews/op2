@@ -49,5 +49,6 @@ https://b-hls-01.strpst.com/hls/60347539/60347539.m3u8
 https://b-hls-25.strpst.com/hls/65843870/65843870.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", DAM AND MI
 https://b-hls-21.strpst.com/hls/56342020/56342020_1080p.m3u8
-
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LITTLE CODY
+https://b-hls-24.strpst.com/hls/51135703/51135703.m3u8
 
