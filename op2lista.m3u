@@ -53,3 +53,6 @@ https://b-hls-21.strpst.com/hls/56342020/56342020_1080p.m3u8
 https://b-hls-24.strpst.com/hls/51135703/51135703.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", JASPER
 https://b-hls-02.strpst.com/hls/72979470/72979470.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TAHIEL
+https://b-hls-24.strpst.com/hls/65535837/65535837.m3u8
+
