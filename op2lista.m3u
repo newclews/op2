@@ -11,6 +11,8 @@ http://pl.gayiptv.com/stream/israguty/channel/2713.m3u8
 http://pl.gayiptv.com/stream/israguty/channel/2747.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CHANNEL 6
 http://pl.gayiptv.com/stream/israguty/channel/2749.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", XMO
+http://pl.gayiptv.com/stream/israguty/channel/0012.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CAMILA
 https://b-hls-20.strpst.com/hls/50374792/50374792.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FRANK
