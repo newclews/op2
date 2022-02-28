@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CHANNEL 1
-http://pl.gayiptv.com/stream/israguty/channel/2709.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CHANNEL 2
-http://pl.gayiptv.com/stream/israguty/channel/2707.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CHANNEL 3
-http://pl.gayiptv.com/stream/israguty/channel/2708.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CHANNEL 4
-http://pl.gayiptv.com/stream/israguty/channel/2713.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CHANNEL 5
-http://pl.gayiptv.com/stream/israguty/channel/2747.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CHANNEL 6
-http://pl.gayiptv.com/stream/israguty/channel/2749.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", XMO
 http://pl.gayiptv.com/stream/israguty/channel/0012.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CAMILA
