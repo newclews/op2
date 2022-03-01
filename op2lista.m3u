@@ -59,5 +59,6 @@ https://b-hls-02.strpst.com/hls/46537721/46537721.m3u8
 https://b-hls-07.strpst.com/hls/63443101/63443101.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", WESLY
 https://b-hls-06.strpst.com/hls/66472044/66472044.m3u8
-
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANGEL
+https://b-hls-24.strpst.com/hls/71079695/71079695.m3u8
 
