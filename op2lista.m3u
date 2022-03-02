@@ -57,8 +57,12 @@ https://b-hls-24.strpst.com/hls/65535837/65535837.m3u8
 https://b-hls-02.strpst.com/hls/46537721/46537721.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", NICE SWEET
 https://b-hls-07.strpst.com/hls/63443101/63443101.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", WESLY
-https://b-hls-06.strpst.com/hls/66472044/66472044.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANGEL
-https://b-hls-24.strpst.com/hls/71079695/71079695.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TOUGH HOT
+https://b-hls-20.doppiocdn.com/hls/65877860/65877860.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TEAM STAR
+https://b-hls-10.doppiocdn.com/hls/72423068/72423068.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EMPIRE
+https://b-hls-03.doppiocdn.com/hls/72381851/72381851.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EMPIRE HOTFX
+https://b-hls-25.doppiocdn.com/hls/73366377/73366377.m3u8
 
