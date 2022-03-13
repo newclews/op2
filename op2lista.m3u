@@ -29,4 +29,5 @@ https://b-hls-09.doppiocdn.com/hls/73134627/73134627.m3u8
 https://b-hls-08.doppiocdn.com/hls/72160306/72160306.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TAYLOR JAMES 3
 https://b-hls-06.doppiocdn.com/hls/71849426/71849426.m3u8
-
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SURPRISES
+https://b-hls-08.doppiocdn.com/hls/73366744/73366744.m3u8
