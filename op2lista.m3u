@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FRANK
-https://b-hls-09.strpst.com/hls/63105323/63105323.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXCLUSIVE
+https://b-hls-10.doppiocdn.com/hls/73696686/73696686.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", IAM
 https://b-hls-16.strpst.com/hls/66337539/66337539.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TWINKSDREAMS 4
