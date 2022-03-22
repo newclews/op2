@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 1
 http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 2
+http://mains.services:2086/dorec14/Chuckman5525$/104351
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXCLUSIVE
 https://b-hls-10.doppiocdn.com/hls/73696686/73696686.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", IAM
