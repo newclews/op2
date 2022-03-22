@@ -39,6 +39,10 @@ http://mains.services:2086/dorec14/Chuckman5525$/104338
 http://mains.services:2086/dorec14/Chuckman5525$/104339
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 20
 http://mains.services:2086/dorec14/Chuckman5525$/104340
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 21
+http://mains.services:2086/dorec14/Chuckman5525$/104341
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 22
+http://mains.services:2086/dorec14/Chuckman5525$/104342
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXCLUSIVE
 https://b-hls-10.doppiocdn.com/hls/73696686/73696686.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", IAM
