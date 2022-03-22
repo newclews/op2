@@ -1,48 +1,6 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 1
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 2
-http://mains.services:2086/dorec14/Chuckman5525$/104351
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 3
-http://mains.services:2086/dorec14/Chuckman5525$/104321
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 4
-http://mains.services:2086/dorec14/Chuckman5525$/104324
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 5
-http://mains.services:2086/dorec14/Chuckman5525$/104325
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 6
-http://mains.services:2086/dorec14/Chuckman5525$/104326
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 7
-http://mains.services:2086/dorec14/Chuckman5525$/104327
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 8
-http://mains.services:2086/dorec14/Chuckman5525$/104328
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 9
-http://mains.services:2086/dorec14/Chuckman5525$/104329
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 10
-http://mains.services:2086/dorec14/Chuckman5525$/104330
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 11
-http://mains.services:2086/dorec14/Chuckman5525$/104331
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 12
-http://mains.services:2086/dorec14/Chuckman5525$/104332
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 13
-http://mains.services:2086/dorec14/Chuckman5525$/104333
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 14
-http://mains.services:2086/dorec14/Chuckman5525$/104334
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 15
-http://mains.services:2086/dorec14/Chuckman5525$/104335
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 16
-http://mains.services:2086/dorec14/Chuckman5525$/104336
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 17
-http://mains.services:2086/dorec14/Chuckman5525$/104337
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 18
-http://mains.services:2086/dorec14/Chuckman5525$/104338
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 19
-http://mains.services:2086/dorec14/Chuckman5525$/104339
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 20
-http://mains.services:2086/dorec14/Chuckman5525$/104340
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 21
-http://mains.services:2086/dorec14/Chuckman5525$/104341
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRA 22
-http://mains.services:2086/dorec14/Chuckman5525$/104342
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXCLUSIVE
 https://b-hls-10.doppiocdn.com/hls/73696686/73696686.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", IAM
