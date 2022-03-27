@@ -37,6 +37,7 @@ https://b-hls-06.doppiocdn.com/hls/72722195/72722195.m3u8
 https://b-hls-02.doppiocdn.com/hls/72737420/72737420.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", OLIVER
 https://b-hls-06.doppiocdn.com/hls/73558118/73558118.m3u8
-
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ARCILA
+https://b-hls-06.doppiocdn.com/hls/48843407/48843407.m3u8
 
 
