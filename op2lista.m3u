@@ -37,8 +37,8 @@ https://b-hls-06.doppiocdn.com/hls/72722195/72722195.m3u8
 https://b-hls-02.doppiocdn.com/hls/72737420/72737420.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", OLIVER
 https://b-hls-06.doppiocdn.com/hls/73558118/73558118.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ARCILA
-https://b-hls-06.doppiocdn.com/hls/48843407/48843407.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LENOX
+https://b-hls-16.doppiocdn.com/hls/75152225/75152225.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BELIFE
 https://b-hls-07.doppiocdn.com/hls/74503981/74503981.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LITTLER
