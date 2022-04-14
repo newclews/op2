@@ -55,3 +55,6 @@ https://b-hls-09.doppiocdn.com/hls/32724026/32724026.m3u8
 https://b-hls-24.doppiocdn.com/hls/75382816/75382816.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CURIOUS GUYS
 https://b-hls-21.doppiocdn.com/hls/75154138/75154138.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ZEUS
+https://b-hls-20.doppiocdn.com/hls/75887431/75887431.m3u8
+
