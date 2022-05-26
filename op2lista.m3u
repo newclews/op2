@@ -63,6 +63,9 @@ https://b-hls-19.doppiocdn.com/hls/74061093/74061093.m3u8
 https://b-hls-09.doppiocdn.com/hls/78624666/78624666.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MAXIMO Y ABEL
 https://b-hls-07.doppiocdn.com/hls/78277460/78277460.m3u8
-
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EDID
+https://b-hls-08.doppiocdn.com/hls/79382996/79382996.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", STEWART
+https://b-hls-12.doppiocdn.com/hls/78120198/78120198_720p.m3u8
 
 
