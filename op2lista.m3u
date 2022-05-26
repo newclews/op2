@@ -67,5 +67,7 @@ https://b-hls-07.doppiocdn.com/hls/78277460/78277460.m3u8
 https://b-hls-08.doppiocdn.com/hls/79382996/79382996.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", STEWART
 https://b-hls-12.doppiocdn.com/hls/78120198/78120198_720p.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BRUN
+https://b-hls-01.doppiocdn.com/hls/73378811/73378811.m3u8
 
 
