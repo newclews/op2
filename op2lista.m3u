@@ -75,5 +75,6 @@ https://b-hls-12.doppiocdn.com/hls/75017301/75017301.m3u8
 https://b-hls-02.doppiocdn.com/hls/72276417/72276417.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", DANN N JACK
 https://b-hls-12.doppiocdn.com/hls/77582669/77582669.m3u8
-
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TEAM RYAN
+https://b-hls-23.doppiocdn.com/hls/77046011/77046011.m3u8
 
