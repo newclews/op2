@@ -81,4 +81,7 @@ https://b-hls-23.doppiocdn.com/hls/77046011/77046011.m3u8
 https://b-hls-21.doppiocdn.com/hls/77416649/77416649.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", GUYS ACTION
 https://b-hls-23.doppiocdn.com/hls/78624666/78624666.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BOY BLACK
+https://b-hls-11.doppiocdn.com/hls/79011685/79011685.m3u8
+
 
