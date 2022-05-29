@@ -85,3 +85,6 @@ https://b-hls-20.doppiocdn.com/hls/70984803/70984803.m3u8
 https://b-hls-21.doppiocdn.com/hls/75494936/75494936.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TELL ME FOX
 https://b-hls-16.doppiocdn.com/hls/58659826/58659826.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BEHIND THE DOOR
+https://b-hls-10.doppiocdn.com/hls/74379037/74379037.m3u8
+
