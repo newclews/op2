@@ -53,8 +53,6 @@ https://b-hls-09.doppiocdn.com/hls/32724026/32724026.m3u8
 https://b-hls-24.doppiocdn.com/hls/75382816/75382816.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CURIOUS GUYS
 https://b-hls-21.doppiocdn.com/hls/75154138/75154138.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ZEUS
-https://b-hls-20.doppiocdn.com/hls/75887431/75887431.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", KEYSY
 https://b-hls-19.doppiocdn.com/hls/74061093/74061093.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MAXIMO Y ABEL
@@ -81,5 +79,4 @@ https://b-hls-21.doppiocdn.com/hls/77416649/77416649.m3u8
 https://b-hls-23.doppiocdn.com/hls/78624666/78624666.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BOY BLACK
 https://b-hls-11.doppiocdn.com/hls/79011685/79011685.m3u8
-
 
