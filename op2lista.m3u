@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HARD
-http://nxtplay.xyz:8080/bsafUEGr7mD/S5Zh4wFJQ6g/215767
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HARD 2
-http://www.pandar.tv:25461/cc:d3:c1:8f:5d:2e/nXScLVKFU3yGHRN/94629
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", GRUPBOY
 https://b-hls-16.doppiocdn.com/hls/77242618/77242618.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", AKON I
