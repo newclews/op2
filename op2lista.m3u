@@ -89,4 +89,6 @@ https://b-hls-10.doppiocdn.com/hls/74379037/74379037.m3u8
 https://b-hls-05.doppiocdn.com/hls/76743440/76743440.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", GOLDEN PROJECT
 https://b-hls-08.doppiocdn.com/hls/74734608/74734608.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", KINKY BOY
+https://b-hls-03.doppiocdn.com/hls/78740156/78740156.m3u8
 
