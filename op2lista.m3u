@@ -93,3 +93,6 @@ https://b-hls-08.doppiocdn.com/hls/74734608/74734608.m3u8
 https://b-hls-03.doppiocdn.com/hls/78740156/78740156.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ARTHUR COTT
 https://b-hls-03.doppiocdn.com/hls/71678312/71678312.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HOT ZONE
+https://b-hls-18.doppiocdn.com/hls/78534797/78534797.m3u8
+
