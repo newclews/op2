@@ -47,3 +47,7 @@ https://b-hls-06.doppiocdn.com/hls/72722195/72722195.m3u8
 https://b-hls-09.doppiocdn.com/hls/32724026/32724026.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANGELTURNED
 https://b-hls-02.doppiocdn.com/hls/72276417/72276417.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CALEB
+https://b-hls-02.doppiocdn.com/hls/84340632/84340632.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EDID
+https://b-hls-04.doppiocdn.com/hls/82242061/82242061.m3u8
