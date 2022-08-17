@@ -85,4 +85,5 @@ https://b-hls-02.doppiocdn.com/hls/80530932/80530932.m3u8
 https://b-hls-20.doppiocdn.com/hls/83742004/83742004.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LEO PERVETED
 https://b-hls-06.doppiocdn.com/hls/85380589/85380589.m3u8
-
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SARADA
+https://b-hls-24.doppiocdn.com/hls/85890316/85890316.m3u8
