@@ -69,6 +69,8 @@ https://b-hls-16.doppiocdn.com/hls/79488917/79488917.m3u8
 https://b-hls-12.doppiocdn.com/hls/85351890/85351890.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", IAN NESTOR
 https://b-hls-03.doppiocdn.com/hls/86113536/86113536.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANGELS TEENA
+https://b-hls-03.doppiocdn.com/hls/87120147/87120147.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", STERMINATION
 https://b-hls-07.doppiocdn.com/hls/76109359/76109359.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", PLAYSDOLLS
