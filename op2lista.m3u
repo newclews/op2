@@ -41,6 +41,8 @@ https://b-hls-18.doppiocdn.com/hls/77890291/77890291.m3u8
 https://b-hls-01.doppiocdn.com/hls/73378811/73378811.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ARTHUR COTT
 https://b-hls-03.doppiocdn.com/hls/71678312/71678312.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", 7 ZEUS
+https://b-hls-17.doppiocdn.com/hls/75887431/75887431.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HAROLD
 https://b-hls-06.doppiocdn.com/hls/72722195/72722195.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", AUSTIN
