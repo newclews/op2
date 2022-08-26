@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", test
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7txn7q?f=.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", G
+http://50.7.120.163:8585/SEETV_41/index.m3u8?wmsAuthSign=1661568059p521i59i841i771S33bd7c31667b857c0b64e46cfacd250c
