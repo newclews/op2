@@ -1,3 +1,14 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", G
-http://50.7.120.163:8585/SEETV_41/index.m3u8?wmsAuthSign=1661568059p521i59i841i771S33bd7c31667b857c0b64e46cfacd250c
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CANAL 10 CANCUN
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CANAL 12 (XETW-TDT)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CANAL 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CANAL 28
+https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CANAL 44 CHIHUAHUA
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+
