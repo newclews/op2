@@ -1,38 +1,21 @@
 #EXTM3U
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV
-http://168.227.22.18:1935/live/mobile-062/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN ESPANHOL
-https://tvnow.best/api/stream/crobertson1978@ymail.com/533546/livetv.epg/cnn.espaol.us.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMX NOTICIAS
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png", TODO NOTICIAS
-https://isgo.newclews.workers.dev/stream/UCj6PcyLvpnIRT_2W_mwa9Aw/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2560px-Cable_Noticias_logo.svg.png", CABLE NOTICIAS
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/1200px-Noticias_Caracol_imagotype.svg.png", NOTICIAS CARACOL
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/2560px-Logo_RTVE.svg.png", RTVE
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/2560px-Milenio_%282018-10-27%29.svg.png", MILENIO TELEVISION
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png", DEUTSCHE WELLE ESPANHOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CITY TV
-https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png", TELEPACIFICO
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL 10 CANCUN
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL 44 CHIHUAHUA
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TYC SPORTS
-http://168.197.196.98:9981/stream/channelid/191278502
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png", EUREKA TV
-https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DREAMWORKS
-http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FUNBOX
-https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
-
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CANAL GOV
+https://www.youtube.com/channel/UCjaWLFTNqLkq3ZY2BJ4NYRg/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", SBT RJ
+https://www.youtube.com/channel/UCsRfBAspa72ExrsN347W2xg/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", TODO NOTICIAS
+https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CAZÉ TV
+https://www.youtube.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CANAL GOAT
+https://www.youtube.com/channel/UC_oToDrJ6uca7d1dFVBmLtg/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", FLA TV
+https://www.youtube.com/channel/UCOa-WaNwQaoyFHLCDk7qKIw/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", FLU TV
+https://www.youtube.com/channel/UCAAPXtnzlg9krw6MtNbfR-g/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", VASCO TV
+https://www.youtube.com/channel/UCZD5qcen7lbLPFTjfvdLFcw/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", BOTAFOGO TV
+https://www.youtube.com/channel/UCFxjZDrLCOCHkUCu632AmMQ/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", DIDI RED PILL
+https://www.youtube.com/channel/UCpJ3jHK9lTA7tElmldAGOGA/live
