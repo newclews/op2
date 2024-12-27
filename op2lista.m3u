@@ -3,12 +3,12 @@
 https://www.youtube.com/channel/UCjaWLFTNqLkq3ZY2BJ4NYRg/live
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", SBT RJ
 https://www.youtube.com/channel/UCsRfBAspa72ExrsN347W2xg/live
-#EXTINF:0 type="stream" group-title="AO VIVO" logo="", TODO NOTICIAS
-https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", 98 LIVE
 https://www.dailymotion.com/video/x8ilwg3
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", TV RIO CÂMARA
 https://www.youtube.com/channel/UCmkgkpuRbUGzwLSpnV2nevQ/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CHAVES (GAMES BR)
+https://www.youtube.com/channel/UCnucBIHl6ohUTLfuOvpDM_Q/live
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", TOMORROWLAND
 https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ/live
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", CAZÉ TV (NOT 24/7)
@@ -43,7 +43,7 @@ https://www.youtube.com/channel/UCbiGwU0-W1XCDUrt3BTVrag/live
 https://www.youtube.com/channel/UC5oRxjbY3HHrP5Acsu2vtkQ/live
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", RADIO BAND NEWS SP (NOT 24/7)
 https://www.youtube.com/channel/UCWijW6tW0iI5ghsAbWDFtTg/live
-#EXTINF:0 type="stream" group-title="AO VIVO" logo="", RADIO TUPI RJ (NOT 24/7) 
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", RADIO TUPI RJ (NOT 24/7)
 https://www.youtube.com/channel/UCkkqXUQYUT0pC8RjZpfTZCQ/live
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", GAZETA DO POVO (NOT 24/7)
 https://www.youtube.com/channel/UCWdGgeyOnCOGnvhNdbVl1dQ/live
@@ -53,7 +53,21 @@ https://www.youtube.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg/live
 https://www.youtube.com/channel/UC9XGWLQ3gL7fZla9tcINJxA/live
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", DIDI RED PILL (NOT 24/7)
 https://www.youtube.com/channel/UCpJ3jHK9lTA7tElmldAGOGA/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", FATOR POLITICO BR (NOT 24/7)
+https://www.youtube.com/channel/UCtCN9VVRR3fJolXWSbQ5oxw/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", FIO DIARIO (NOT 24/7)
+https://www.youtube.com/channel/UCK8of7NJhRnyYRH1LlZ-Ubw/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", A BORDO NOTICIAS (NOT 24/7)
+https://www.youtube.com/channel/UCy6No58ozvsnoCo2qTZeZrg/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", VLOG DO LISBOA (NOT 24/7)
+https://www.youtube.com/channel/UCeW2XVfsOkghlDuw6N7b_ag/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", RADIO AURIVERDE (NOT 24/7)
+https://www.youtube.com/channel/UCLHIUIBIid6qpljFBWEOHSw/live
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", RADIO CIDADE 99.7 (NOT 24/7)
 https://www.youtube.com/channel/UCA5MZJHuE7fj6SFoTxbHEDQ/live
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", RADIO JORNAL RECIFE (NOT 24/7)
 https://www.youtube.com/channel/UCJmUR7pEaYgWquW6YwEXw6A/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", TODO NOTICIAS (AR)
+https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CITY TV (CO)
+https://www.youtube.com/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ/live
