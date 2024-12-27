@@ -1,21 +1,55 @@
 #EXTM3U
-#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CANAL GOV
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CANAL GOV 
 https://www.youtube.com/channel/UCjaWLFTNqLkq3ZY2BJ4NYRg/live
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", SBT RJ
 https://www.youtube.com/channel/UCsRfBAspa72ExrsN347W2xg/live
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", TODO NOTICIAS
 https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
-#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CAZÉ TV
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", 98 LIVE
+https://www.dailymotion.com/video/x8ilwg3
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", TV RIO CÂMARA
+https://www.youtube.com/channel/UCmkgkpuRbUGzwLSpnV2nevQ/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", TOMORROWLAND
+https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CAZÉ TV (NOT 24/7)
 https://www.youtube.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ/live
-#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CANAL GOAT
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CANAL GOAT (NOT 24/7)
 https://www.youtube.com/channel/UC_oToDrJ6uca7d1dFVBmLtg/live
-#EXTINF:0 type="stream" group-title="AO VIVO" logo="", FLA TV
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", FLA TV (NOT 24/7)
 https://www.youtube.com/channel/UCOa-WaNwQaoyFHLCDk7qKIw/live
-#EXTINF:0 type="stream" group-title="AO VIVO" logo="", FLU TV
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", FLU TV (NOT 24/7)
 https://www.youtube.com/channel/UCAAPXtnzlg9krw6MtNbfR-g/live
-#EXTINF:0 type="stream" group-title="AO VIVO" logo="", VASCO TV
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", VASCO TV (NOT 24/7)
 https://www.youtube.com/channel/UCZD5qcen7lbLPFTjfvdLFcw/live
-#EXTINF:0 type="stream" group-title="AO VIVO" logo="", BOTAFOGO TV
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", BOTAFOGO TV (NOT 24/7)
 https://www.youtube.com/channel/UCFxjZDrLCOCHkUCu632AmMQ/live
-#EXTINF:0 type="stream" group-title="AO VIVO" logo="", DIDI RED PILL
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", UOL ESPORTE (NOT 24/7)
+https://www.youtube.com/channel/UC3KHYFWeB0WimMBfm3NEahQ/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", RADIO ENERGIA 97 (NOT 24/7)
+https://www.youtube.com/channel/UCIkAO7iHS6R9AtcABE9MdRQ/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", TV ACRITICA (NOT 24/7)
+https://www.youtube.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", NOVA VIDA JPA (NOT 24/7)
+https://www.youtube.com/channel/UClazF6-tWyqC_mfqpMSviCw/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", SBT NEWS (NOT 24/7)
+https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", BAND JORNAL (NOT 24/7)
+https://www.youtube.com/channel/UCoa-D_VfMkFrCYodrOC9-mA/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", TV BAND RIO (NOT 24/7)
+https://www.youtube.com/channel/UCzQxHUiLa5prpJoyOxS0GSA/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", RADIO CBN (NOT 24/7)
+https://www.youtube.com/channel/UCbiGwU0-W1XCDUrt3BTVrag/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", RADIO BAND NEWS RJ (NOT 24/7)
+https://www.youtube.com/channel/UC5oRxjbY3HHrP5Acsu2vtkQ/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", RADIO BAND NEWS SP (NOT 24/7)
+https://www.youtube.com/channel/UCWijW6tW0iI5ghsAbWDFtTg/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", RADIO TUPI RJ (NOT 24/7) 
+https://www.youtube.com/channel/UCkkqXUQYUT0pC8RjZpfTZCQ/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", GAZETA DO POVO (NOT 24/7)
+https://www.youtube.com/channel/UCWdGgeyOnCOGnvhNdbVl1dQ/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", OESTE SEM FILTRO (NOT 24/7)
+https://www.youtube.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", FLORIDA USA (NOT 24/7)
+https://www.youtube.com/channel/UC9XGWLQ3gL7fZla9tcINJxA/live
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", DIDI RED PILL (NOT 24/7)
 https://www.youtube.com/channel/UCpJ3jHK9lTA7tElmldAGOGA/live
