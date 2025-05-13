@@ -5,6 +5,8 @@ https://anonstream.live/globonews/index.m3u8
 https://anonstream.live/bandnews/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", CNN BRASIL
 https://anonstream.live/cnnbrasil/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", WOOHOO
+https://anonstream.live/woohoo/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", OFF
 https://anonstream.live/off/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", BAND SPORTS
@@ -27,14 +29,26 @@ https://anonstream.live/espn4/index.m3u8
 https://anonstream.live/espn5/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", ESPN 6
 https://anonstream.live/espn6/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", A&E
+https://anonstream.live/aee/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", COMEDY CENTRAL
+https://anonstream.live/comedycentral/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", TCM
+https://anonstream.live/tcm/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", TNT NOVELAS
 https://anonstream.live/tntnovelas/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", TNT
 https://anonstream.live/tnt/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", LIFETIME
+https://anonstream.live/lifetime/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", MEGAPIX
 https://anonstream.live/megapix/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CINEMAX
+https://anonstream.live/cinemax/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", USA
 https://anonstream.live/usa/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", AXN
+https://anonstream.live/axn/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", AMC
 https://anonstream.live/amc/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", SPACE
@@ -89,6 +103,8 @@ https://anonstream.live/discovery/index.m3u8
 https://anonstream.live/discoveryscience/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", DISCOVERY TURBO
 https://anonstream.live/discoveryturbo/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", DISCOVERY WORLD
+https://anonstream.live/discoveryworld/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", BIS
 https://anonstream.live/bis/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", MTV
