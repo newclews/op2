@@ -1,4 +1,56 @@
 #EXTM3U
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", OFF
+https://anonstream.live/off/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", BAND SPORTS
+https://anonstream.live/bandsports/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", SPORTV 1
+https://anonstream.live/sportv/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", SPORTV 2
+https://anonstream.live/sportv2/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", SPORTV 3
+https://anonstream.live/sportv3/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", ESPN 1
+https://anonstream.live/espn/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", ESPN 2
+https://anonstream.live/espn2/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", ESPN 3
+https://anonstream.live/espn3/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", ESPN 4
+https://anonstream.live/espn4/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", ESPN 5
+https://anonstream.live/espn5/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", ESPN 6
+https://anonstream.live/espn6/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", AMC
+https://anonstream.live/amc/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", SPACE
+https://anonstream.live/space/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", UNIVERSAL TV
+https://anonstream.live/universaltv/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", STUDIO UNIVERSAL
+https://anonstream.live/studiouniversal/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", SONY CHANNEL
+https://anonstream.live/sonychannel/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", ADULT SWIM
+https://anonstream.live/adultswim/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", DISCOVERY KIDS
+https://anonstream.live/discoverykids/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CARTOON NETWORK
+https://anonstream.live/cartoonnetwork/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CARTOONITO
+https://anonstream.live/cartoonito/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", GLOOB
+https://anonstream.live/gloob/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", MULTISHOW
+https://anonstream.live/multishow/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", VIVA
+https://anonstream.live/viva/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", BIS
+https://anonstream.live/bis/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", MTV
+https://anonstream.live/mtv/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", MTV LIVE
+https://anonstream.live/mtvlive/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", CANAL GOV 
 https://www.youtube.com/channel/UCjaWLFTNqLkq3ZY2BJ4NYRg/live
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", SBT RJ
