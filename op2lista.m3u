@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", GLOBO NEWS
 https://anonstream.live/globonews/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", BAND NEWS
+https://anonstream.live/bandnews/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", CNN BRASIL
+https://anonstream.live/cnnbrasil/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", OFF
 https://anonstream.live/off/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", BAND SPORTS
@@ -71,6 +75,10 @@ https://anonstream.live/gnt/index.m3u8
 https://anonstream.live/multishow/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", VIVA
 https://anonstream.live/viva/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", HISTORY 1
+https://anonstream.live/history/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", HISTORY 2
+https://anonstream.live/history2/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", MODO VIAGEM
 https://anonstream.live/modoviagem/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", ANIMAL PLANET
