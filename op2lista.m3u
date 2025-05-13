@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", GLOBO NEWS
+https://anonstream.live/globonews/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", OFF
 https://anonstream.live/off/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", BAND SPORTS
@@ -27,6 +29,8 @@ https://anonstream.live/tntnovelas/index.m3u8
 https://anonstream.live/tnt/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", MEGAPIX
 https://anonstream.live/megapix/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", USA
+https://anonstream.live/usa/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", AMC
 https://anonstream.live/amc/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", SPACE
@@ -39,6 +43,18 @@ https://anonstream.live/studiouniversal/index.m3u8
 https://anonstream.live/sonychannel/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", CANAL BRASIL
 https://anonstream.live/canalbrasil/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", HBO 1
+https://anonstream.live/hbo/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", HBO 2
+https://anonstream.live/hbo2/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", HBO FAMILY
+https://anonstream.live/hbofamily/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", HBO PLUS
+https://anonstream.live/hboplus/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", HBO XTREME
+https://anonstream.live/hboxtreme/index.m3u8
+#EXTINF:0 type="stream" group-title="AO VIVO" logo="", HBO SIGNATURE
+https://anonstream.live/hbosignature/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", ADULT SWIM
 https://anonstream.live/adultswim/index.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="", DISCOVERY KIDS
